@@ -6,5 +6,5 @@ st.subheader("image :)
 st.image("kid.jpg")
 
 import streamlit as st
-st.subheader("image :)
+st.subheader("image :")
 st.image("kid.jpg")             
