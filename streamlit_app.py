@@ -1,5 +1,5 @@
-import streamlit as st
+import streamlit 
+
+streamlit.title(My Parents New Healthy Dinner)
 
 
-st.subheader("Image :")
-st.image("kid.jpg")             
